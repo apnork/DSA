@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a91296d-a239-4cde-84db-51f473b6aa1e" name="Changes" comment="" />
+    <list default="true" id="7a91296d-a239-4cde-84db-51f473b6aa1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LinkedLists/Recursion_in_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/binary_numbers_upto_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/postfix_using_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/queue_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/queue_using_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/reversing_a_queue_till_k_elems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/sort_elements_of_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/stack_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks &amp; Queue/two_stacks_one_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -41,8 +57,8 @@
       <recent name="C:\Users\shudh\PycharmProjects\DSA\LinkedLists\Doubly Linked Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cycle_in_linked_list">
-    <configuration name="Reverse_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.postfix_using_stack">
+    <configuration name="postfix_using_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks &amp; Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/Reverse_linked_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks &amp; Queue/postfix_using_stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cycle_in_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="queue_using_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks &amp; Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/cycle_in_linked_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks &amp; Queue/queue_using_stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="doubly_linked_lists_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sort_elements_of_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists/Doubly Linked Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks &amp; Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/Doubly Linked Lists/doubly_linked_lists_impl.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks &amp; Queue/sort_elements_of_stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insertion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stack_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks &amp; Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/insertion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks &amp; Queue/stack_impl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="length_of_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="two_stacks_one_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks &amp; Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/length_of_linked_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks &amp; Queue/two_stacks_one_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cycle_in_linked_list" />
-        <item itemvalue="Python.Reverse_linked_list" />
-        <item itemvalue="Python.length_of_linked_list" />
-        <item itemvalue="Python.doubly_linked_lists_impl" />
-        <item itemvalue="Python.insertion" />
+        <item itemvalue="Python.postfix_using_stack" />
+        <item itemvalue="Python.sort_elements_of_stack" />
+        <item itemvalue="Python.stack_impl" />
+        <item itemvalue="Python.queue_using_stack" />
+        <item itemvalue="Python.two_stacks_one_list" />
       </list>
     </recent_temporary>
   </component>
