@@ -116,3 +116,4 @@ def edu_solution(exp: str):
 
 
 print(edu_solution("921*-0/8+"))
+print(edu_solution("942+*6147/+*"))
